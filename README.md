@@ -10,3 +10,5 @@ javascript:(function(){var%20el=document.createElement('script');el.src='https:/
 
 ## Použití
 Otevřte stránku s filmem na Synopsi.TV a po jejím načtení otevřete záložku ČSFD → Synopsi. Po chvíli se na stránce filmu zobrazí český název s hodnocením z ČSFD.
+
+![Screenshot](/../screenshots/ČSFD%20→%20Synopsi.PNG?raw=true)
